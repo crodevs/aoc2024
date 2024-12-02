@@ -14,7 +14,7 @@ URL = 'https://adventofcode.com/2024'
 COOKIES = {
     'ru': 'userstring',
     'session':
-        '53616c7465645f5f1c45816137d09dc77da81d740eda4d4b0c53727a2f5dc1aabe0194b1987f54714343e5fcbe668139e5e9f892a80caac8b71e8d4aec49f035'
+        '53616c7465645f5f6688d1f90162b950d161f2b3d7aa4417a2c02a0b20e30720209cc247eaf71de382bb274adf853b27b5336df90d65fa1cf9259517fb06d524'
 }
 
 INPUT_SIZE = 2

@@ -9,3 +9,5 @@ RUN apt update \
     && useradd -m -s /usr/bin/bash ${USER} \
     && echo "${USER} ALL=(ALL) NOPASSWD: ALL" >/etc/sudoers.d/${USER} \
     && chmod 0440 /etc/sudoers.d/${USER}
+
+RUN pip install requests
